@@ -1,0 +1,21 @@
+table
+{
+    border-collapse: collapse;
+    width: 1000px;
+}
+td
+{
+    border: 1px solid black;
+    width: 400px;
+    color: white;
+}
+
+body
+{
+  background-color:  #0080D1;
+}
+a:hover
+{
+  color: red;
+  border-bottom: 10px;
+}
